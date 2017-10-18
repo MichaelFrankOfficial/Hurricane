@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/000/084/487/medium/harbour_001d.jpg?1443929621");
+}
+ul{
+    list-style-type: none;
+    margin:0 ;
+    padding: 0;
+    overflow: hidden;
+}
+a:link, a:visited{
+    display: block;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: gray;
+    width: 252px;
+    text-align: center;
+    padding: 40px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px white;
+}
+li{
+ float: left;
+}
+h1{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-size: 150px;
+    color:red;
+}
+.intro{
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    font-size: 45px;
+    color: white;
+}
